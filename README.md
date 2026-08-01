@@ -1,6 +1,5 @@
-# Quantium-Data-Analytics
 
-# Quantium Retail Analytics — Data Analytics Virtual Internship
+# Quantium Retail Analytics - Data Analytics Virtual Internship
 
 This project was completed as part of the **Quantium Data Analytics Virtual Internship. It simulates a real-world retail analytics engagement, using transaction data to generate commercial insights and evaluate trial store performance for a category manager.
 
@@ -32,7 +31,6 @@ The internship is split into two main tasks:
 ├── Quantium Retail Analytics - Full.pdf   # Final report / presentation (53 pages)
 └── README.md
 ```
-*(Adjust this to match your actual folder layout)*
 
 ## 📊 Key Findings
 
@@ -54,6 +52,3 @@ The full 53-page presentation, **Quatium Retail Analytics - Full**, is included 
 ##  Acknowledgements
 Task structure and business context are provided by Quantium; all analysis and code are my own.
 
----
-
-*Note: This is a simulated internship project for learning/portfolio purposes and does not use real Quantium client data.*
